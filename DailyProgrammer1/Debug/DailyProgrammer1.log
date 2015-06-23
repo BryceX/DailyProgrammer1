@@ -1,0 +1,29 @@
+﻿Build started 6/23/2015 2:44:18 AM.
+     1>Project "c:\Users\Bryce\documents\visual studio 2013\Projects\DailyProgrammer1\DailyProgrammer1\DailyProgrammer1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DailyProgrammer1.cpp
+         DailyProgrammer1.cpp
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(18): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(34): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(50): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(66): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(82): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(98): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(114): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(130): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(146): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(161): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(177): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(193): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(209): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(225): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\bryce\documents\visual studio 2013\projects\dailyprogrammer1\dailyprogrammer1\dailyprogrammer1.cpp(241): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\bryce\documents\visual studio 2013\Projects\DailyProgrammer1\Debug\DailyProgrammer1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\bryce\documents\visual studio 2013\Projects\DailyProgrammer1\Debug\DailyProgrammer1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\bryce\documents\visual studio 2013\Projects\DailyProgrammer1\Debug\DailyProgrammer1.lib" /MACHINE:X86 Debug\DailyProgrammer1.obj
+         Debug\stdafx.obj
+         DailyProgrammer1.vcxproj -> c:\users\bryce\documents\visual studio 2013\Projects\DailyProgrammer1\Debug\DailyProgrammer1.exe
+     1>Done Building Project "c:\Users\Bryce\documents\visual studio 2013\Projects\DailyProgrammer1\DailyProgrammer1\DailyProgrammer1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.68
